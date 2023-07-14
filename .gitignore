@@ -1,0 +1,9 @@
+.DS_Store
+node_modules
+.turbo
+build
+logs
+
+# Envinronment variables
+.env
+!.env.example
